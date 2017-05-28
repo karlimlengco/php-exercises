@@ -71,6 +71,9 @@ class Forecast
     }
 }
 
+/**
+ * Perform tests here, don't change anything here beyond this point.
+ */
 $forecast = new Forecast(
     new OpenWeatherMap(OPEN_WEATHER_MAP_API_KEY)
 );

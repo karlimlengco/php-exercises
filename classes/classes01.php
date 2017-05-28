@@ -16,6 +16,9 @@ class Cart
 {
 }
 
+/**
+ * Perform tests here, don't change anything here beyond this point.
+ */
 $items = [
     ['item' => 'Macbook Pro with Gold', 'amount' => 123000.25],
     ['item' => 'iPhone 8s', 'amount' => 49552.25],
