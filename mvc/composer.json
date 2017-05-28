@@ -1,0 +1,13 @@
+{
+    "autoload": {
+        "psr-4": {
+            "Everwing\\": "src/"
+        },
+        "files": [
+            "src/helpers.php"
+        ]
+    },
+    "require": {
+        "nikic/fast-route": "^1.2"
+    }
+}
